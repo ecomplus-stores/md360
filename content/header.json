@@ -1,17 +1,15 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#ffffff",
+    "color": "#044285"
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
