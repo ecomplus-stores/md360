@@ -4,7 +4,7 @@
   "primary_color": "#044285",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-gray"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/md360",
