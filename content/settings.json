@@ -1,26 +1,26 @@
 {
-  "store_id": 51459,
-  "name": "md360",
   "domain": "md360.netlify.app",
-  "short_name": "md360",
-  "description": "md360",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#044285",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/md360",
+  "logo": "/img/uploads/logotipo-sem-fundo-colorido-retangular.png",
+  "name": "MD360",
+  "short_name": "Loja MD360",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "Open Sans",
+  "favicon": "/img/uploads/11.png",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "repository": "ecomplus-stores/md360",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#eba921",
+  "icon": "/img/uploads/11.png",
+  "store_id": 51459,
+  "description": "Loja MD360",
+  "large_icon": "/img/uploads/logotipo-sem-fundo-colorido-retangular.png"
 }
