@@ -1,19 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil",
-    "title": "Loja da Multidisciplinar 360"
+    "text": "Entrega em todo o Brasil",
+    "title": "Loja da MD360"
   },
   "installments": {
     "show": true,
     "text": "Parcele em até 12X"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Sempre com novidades!"
   }
 }
