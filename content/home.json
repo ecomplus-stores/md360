@@ -41,6 +41,9 @@
         {
           "img": "/img/uploads/banner1.png",
           "mobile_img": "/img/uploads/banner1.png"
+        },
+        {
+          "img": "/img/uploads/5.png"
         }
       ]
     }
