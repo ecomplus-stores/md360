@@ -5,7 +5,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Nossos Parceiros",
+      "description": "Conheça mais de quem faz a MD 360."
     },
     {
       "type": "document-banner",
