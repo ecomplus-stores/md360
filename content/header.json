@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion",
+    "text": "Conheça a Plataforma Multidisciplinar 360!",
+    "link": "https://www.multidisciplinar360.com.br/",
     "background": "#ffffff",
     "color": "#044285"
   },
@@ -10,6 +10,12 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "title": "Parcerias"
+      },
+      {
+        "title": "Escolas"
       }
     ],
     "phone_wpp": true,
@@ -18,7 +24,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "centralized_logo": false,
   "desktop_megamenu": true,
