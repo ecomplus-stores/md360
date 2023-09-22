@@ -30,13 +30,6 @@
       "page": 1
     },
     {
-      "type": "brands-carousel",
-      "limit": 3,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 0
-    },
-    {
       "type": "custom-content",
       "markdown": "**Aceleradoras e Incubadoras:**\n\n![](/img/uploads/sebrae-startups-300x97-1.png)\n\n![](/img/uploads/fh.jpg)\n\n![]()"
     }
