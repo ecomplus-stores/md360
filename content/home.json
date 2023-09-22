@@ -40,7 +40,8 @@
         "650b8b0b2cd6b6595956c3b0:categories:Para Professores:/para-professores",
         "650b8b422cd6b6595956c3f6:categories:Para Escolas:/para-escolas"
       ],
-      "sort": "views"
+      "sort": "views",
+      "autoplay": 5000
     }
   ]
 }
