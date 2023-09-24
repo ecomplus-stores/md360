@@ -35,6 +35,10 @@
       "page": 1
     },
     {
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/md-faixa.png)"
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 8,
