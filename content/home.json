@@ -40,17 +40,15 @@
     },
     {
       "type": "shelfs-nav",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 8,
       "page": 1,
       "collection_ids": [
         "650b8afb2cd6b6595956c38d:categories:Para Alunos:/para-alunos",
-        "650b8b2d2cd6b6595956c3e6:categories:Para Terapeutas:/para-terapeutas",
         "650b8b0b2cd6b6595956c3b0:categories:Para Professores:/para-professores",
+        "650b8b2d2cd6b6595956c3e6:categories:Para Terapeutas:/para-terapeutas",
         "650b8b422cd6b6595956c3f6:categories:Para Escolas:/para-escolas"
-      ],
-      "sort": "views",
-      "autoplay": 5000
+      ]
     }
   ]
 }
