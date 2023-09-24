@@ -3,10 +3,5 @@
   "meta_title": "Contato",
   "meta_description": "Contato",
   "body": "### Conheça mais sobre nossa metodologia em : [www.multidisciplinar360.com.br](https://www.multidisciplinar360.com.br/)\n\nQ﻿ualquer dúvida, chama a gente no [Whatsapp](https://api.whatsapp.com/send/?phone=5511920857266&text&type=phone_number&app_absent=0)!\n\n![]()",
-  "sections": [
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
-    }
-  ]
+  "sections": []
 }
