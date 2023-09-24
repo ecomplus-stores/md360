@@ -35,10 +35,6 @@
       "page": 1
     },
     {
-      "type": "custom-content",
-      "markdown": "![](/img/uploads/md-faixa-meio.png)"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -47,6 +43,10 @@
       "sort": "views",
       "title": "Produtos Multidisciplinar 360",
       "headless": false
+    },
+    {
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/md-faixa-meio.png)"
     },
     {
       "type": "shelfs-nav",
