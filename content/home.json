@@ -50,6 +50,15 @@
       ],
       "sort": "views",
       "shelfs_title": "Nossas Marcas"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
