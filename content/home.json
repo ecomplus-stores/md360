@@ -52,8 +52,8 @@
       "shelfs_title": "Nossas Marcas"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/md-faixa-600-110-px-.png)"
     },
     {
       "type": "dynamic-showcase",
