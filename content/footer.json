@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Plataforma Multidisciplinar 360",
+        "url": "https://www.multidisciplinar360.com.br/"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
@@ -32,9 +37,9 @@
     "pix": true,
     "visa": true,
     "mastercard": true,
-    "elo": true,
-    "amex": true,
-    "hipercard": true,
+    "elo": false,
+    "amex": false,
+    "hipercard": false,
     "boleto": true
   },
   "credits": ""
