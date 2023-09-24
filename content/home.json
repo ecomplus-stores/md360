@@ -59,6 +59,10 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "A﻿celarados / incubados por:\n\n![](/img/uploads/md-faixa-1-.png)"
     }
   ]
 }
