@@ -39,6 +39,11 @@
       "markdown": "![](/img/uploads/md-faixa-meio.png)"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "custom-content",
       "markdown": "![](/img/uploads/md-faixa-lancamentos.png)"
     },
