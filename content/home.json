@@ -39,17 +39,6 @@
       "markdown": "![](/img/uploads/md-faixa-meio.png)"
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "650fc48c2cd6b659595af1a3:collections:MD 360:/md-360",
-        "650b8c612cd6b6595956c4e3:brands:Faz de Pano:/faz-de-pano",
-        "650b8d8c2cd6b6595956c5f0:brands:JISA:/jisa"
-      ]
-    },
-    {
       "type": "custom-content",
       "markdown": "![](/img/uploads/md-faixa-lancamentos.png)"
     },
