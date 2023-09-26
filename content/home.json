@@ -50,8 +50,12 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
+        "651211092cd6b659595d41cc:brands:MD 360:/md360",
         "650b8c612cd6b6595956c4e3:brands:Faz de Pano:/faz-de-pano",
-        "650b8d8c2cd6b6595956c5f0:brands:JISA:/jisa"
+        "650b8d8c2cd6b6595956c5f0:brands:JISA:/jisa",
+        "65123f362cd6b659595d7e47:brands:Professores MD 360:/professores-md360",
+        "651225ae2cd6b659595d5b86:brands:Profissionais MD 360:/profissionais-md360",
+        "65123ed72cd6b659595d7e20:brands:Atendimento Prô Thaís:/pro-thais-smarzaro"
       ]
     },
     {
