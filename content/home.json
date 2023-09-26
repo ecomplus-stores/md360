@@ -39,11 +39,6 @@
       "markdown": "![](/img/uploads/faixa-meio-01.png)"
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 8,
