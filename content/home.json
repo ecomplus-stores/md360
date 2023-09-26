@@ -44,6 +44,16 @@
       "offset": 0
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "650b8c612cd6b6595956c4e3:brands:Faz de Pano:/faz-de-pano",
+        "650b8d8c2cd6b6595956c5f0:brands:JISA:/jisa"
+      ]
+    },
+    {
       "type": "custom-content",
       "markdown": "![](/img/uploads/faixa-meio-02.png)"
     },
