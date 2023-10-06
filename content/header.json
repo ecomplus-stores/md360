@@ -12,12 +12,12 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Especialização MD360",
-        "link": "https://multidisciplinar360.herospark.co/professor-especializado-em-neurodivergencia"
-      },
-      {
         "title": "Parcerias",
         "link": "https://www.multidisciplinar360.com.br/seja-parceiro"
+      },
+      {
+        "title": "Dúvidas?",
+        "link": "https://www.multidisciplinar360.com.br/faq"
       }
     ],
     "phone_wpp": true,
@@ -32,5 +32,5 @@
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "full_width_submenu": true
 }
