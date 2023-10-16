@@ -240,7 +240,7 @@
                   @set-quantity="({ quantity }) => qntToBuy = quantity"
                 >
                   <a
-                    :href="`https://${window.innerWidth < 998 ? 'api' : 'web'}.whatsapp.com/send?phone=%2B5511943630073&text=Olá,%20estou%20interessado%20no%20produto%20${name}`"
+                    :href="`https://${device}.whatsapp.com/send?phone=%2B5511943630073&text=Olá,%20estou%20interessado%20no%20produto%20${name}`"
                     target="_blank"
                   >
                     <slot
