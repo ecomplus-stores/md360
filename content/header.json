@@ -28,8 +28,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/para-alunos?Para Alunos",
+      "/para-familias?Para Famílias",
+      "/para-escolas?Para Escolas",
+      "/para-terapeutas?Para Terapeutas",
+      "/para-professores?Para Professores"
+    ],
+    "random": 0,
     "full_width": true
   },
   "centralized_logo": false,
