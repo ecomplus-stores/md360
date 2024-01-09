@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a28c2bdb1609fba708a2bd2b17f5c160.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6fd18a5acbca110963f14743c0e8c2dd.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.28d9af200a5a7ca764cfc82698664d34.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.78237ac0030e57bfa123fd428c4b50e8.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.bd8d31eb50e882322abf2eb27d3cbed1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MKT Place da MD360",
+  "short_name": "MKTPLACE MD360",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos um MKT Place em Recursos para o Aprendizado em todas as suas etapas. \n\nSomos especialistas e pioneiros no aprendizado para neurodivergentes e alunos com defasem e/ou dificuldades de aprendizado. ",
+  "background_color": "#ffffff",
+  "theme_color": "#044285"
+}
